@@ -1,9 +1,13 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <body>
+    <center>
+      <h1 id="title">
+        Physictype
+      </h1>
+    </center>
+  </body>
 </template>
